@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping
+        PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="org.trotro.model.stor.Driver"
+           table="trip_tbl">
+        <id name="id" column="trip_id">
+            <generator class="com.atlpro.util.hibernate.RandomGUIDGenerator"/>
+        </id>
+        <property name="time" column="trip_time"/>
+
+        <many-to-one name="city"
+                     class="org.trotro.model.stor.City" column="city_id" unique="true"/>
+        <many-to-one name="driver"
+                     class="org.trotro.model.stor.Driver" column="driver_id" unique="true"/>
+        <many-to-one name="station"
+                     class="org.trotro.model.stor.Station" column="stn_id" unique="true"/>
+    </class>
+</hibernate-mapping>
