@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog/1.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog/1.9 http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.9.xsd">
+
+    <changeSet author="jcroft (generated)" id="1287760390365-19">
+        <createTable schemaName="public" tableName="role_tbl">
+            <column name="role_id" type="VARCHAR(38)">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="role_tbl_pkey"/>
+            </column>
+            <column name="role_name" type="VARCHAR(32)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="role_desc" type="VARCHAR(254)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="jcroft (generated)" id="1287760390365-25">
+        <createTable schemaName="public" tableName="user_role_tbl">
+            <column name="usr_id" type="VARCHAR(38)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="role_id" type="VARCHAR(38)">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+    <changeSet author="jcroft (generated)" id="1287760390365-26">
+        <createTable schemaName="public" tableName="user_tbl">
+            <column name="usr_id" type="VARCHAR(38)">
+                <constraints nullable="false" primaryKey="true" primaryKeyName="user_tbl_pkey"/>
+            </column>
+            <column name="usr_login" type="VARCHAR(32)">
+                <constraints nullable="false"/>
+            </column>
+            <column name="usr_passwd" type="VARCHAR(128)"/>
+            <column defaultValueBoolean="true" name="usr_non_expired" type="bool"/>
+            <column defaultValueBoolean="true" name="usr_non_locked" type="bool"/>
+            <column defaultValueBoolean="true" name="usr_credentials_non_expired" type="bool"/>
+            <column defaultValueBoolean="true" name="usr_enabled" type="bool"/>
+        </createTable>
+    </changeSet>
+    <changeSet author="jcroft (generated)" id="1287760390365-32">
+        <addPrimaryKey columnNames="usr_id, role_id" constraintName="user_role_tbl_pkey" schemaName="public" tableName="user_role_tbl"/>
+    </changeSet>
+    <changeSet author="jcroft (generated)" id="1287760390365-54">
+        <addForeignKeyConstraint baseColumnNames="role_id" baseTableName="user_role_tbl" baseTableSchemaName="public" constraintName="user_role_tbl_role_id_fkey" deferrable="false" initiallyDeferred="false" referencedColumnNames="role_id" referencedTableName="role_tbl" referencedTableSchemaName="public"/>
+    </changeSet>
+    <changeSet author="jcroft (generated)" id="1287760390365-55">
+        <addForeignKeyConstraint baseColumnNames="usr_id" baseTableName="user_role_tbl" baseTableSchemaName="public" constraintName="user_role_tbl_usr_id_fkey" deferrable="false" initiallyDeferred="false" referencedColumnNames="usr_id" referencedTableName="user_tbl" referencedTableSchemaName="public"/>
+    </changeSet>
+</databaseChangeLog>
