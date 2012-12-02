@@ -80,7 +80,7 @@
       <div class="jumbotron">
         <h1>No More Tro-Tro Trouble</h1>
         <img alt="Tro-Tro Logo" src="/images/trotro-bus-smllr.png"/>
-        <p class="lead">Our Android app is quick and easy to use for drivers and passengers.<br/> Get it here for free.</p>
+        <p class="lead">Our Android app is quick and easy to use for drivers and passengers.<br/> Get it <a href "https://play.google.com/store/apps/details?id=org.trotro&feature=search_result#?t=W251bGwsMSwyLDEsIm9yZy50cm90cm8iXQ..">here</a> for free.</p>
         <a class="btn btn-large btn-success" href="#">Sign up today</a>
       </div>
 
