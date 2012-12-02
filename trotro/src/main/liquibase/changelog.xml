@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog/1.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog/1.9 http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.9.xsd">
 
-    <changeSet author="jcroft (generated)" id="1287760390365-19">
+    <changeSet author="jcroft" id="20121201-1">
         <createTable schemaName="public" tableName="role_tbl">
             <column name="role_id" type="VARCHAR(38)">
                 <constraints nullable="false" primaryKey="true" primaryKeyName="role_tbl_pkey"/>
@@ -14,7 +14,7 @@
             </column>
         </createTable>
     </changeSet>
-    <changeSet author="jcroft (generated)" id="1287760390365-25">
+    <changeSet author="jcroft" id="20121201-2">
         <createTable schemaName="public" tableName="user_role_tbl">
             <column name="usr_id" type="VARCHAR(38)">
                 <constraints nullable="false"/>
@@ -24,7 +24,7 @@
             </column>
         </createTable>
     </changeSet>
-    <changeSet author="jcroft (generated)" id="1287760390365-26">
+    <changeSet author="jcroft" id="20121201-3">
         <createTable schemaName="public" tableName="user_tbl">
             <column name="usr_id" type="VARCHAR(38)">
                 <constraints nullable="false" primaryKey="true" primaryKeyName="user_tbl_pkey"/>
@@ -39,17 +39,17 @@
             <column defaultValueBoolean="true" name="usr_enabled" type="bool"/>
         </createTable>
     </changeSet>
-    <changeSet author="jcroft (generated)" id="1287760390365-32">
+    <changeSet author="jcroft" id="20121201-4">
         <addPrimaryKey columnNames="usr_id, role_id" constraintName="user_role_tbl_pkey" schemaName="public" tableName="user_role_tbl"/>
     </changeSet>
-    <changeSet author="jcroft (generated)" id="1287760390365-54">
+    <changeSet author="jcroft" id="20121201-5">
         <addForeignKeyConstraint baseColumnNames="role_id" baseTableName="user_role_tbl" baseTableSchemaName="public" constraintName="user_role_tbl_role_id_fkey" deferrable="false" initiallyDeferred="false" referencedColumnNames="role_id" referencedTableName="role_tbl" referencedTableSchemaName="public"/>
     </changeSet>
-    <changeSet author="jcroft (generated)" id="1287760390365-55">
+    <changeSet author="jcroft" id="20121201-6">
         <addForeignKeyConstraint baseColumnNames="usr_id" baseTableName="user_role_tbl" baseTableSchemaName="public" constraintName="user_role_tbl_usr_id_fkey" deferrable="false" initiallyDeferred="false" referencedColumnNames="usr_id" referencedTableName="user_tbl" referencedTableSchemaName="public"/>
     </changeSet>
 
-<changeSet author="jcroft (generated)" id="1287760390365-19">
+<changeSet author="jcroft" id="20121201-7">
     <createTable schemaName="public" tableName="city_tbl">
         <column name="city_id" type="VARCHAR(38)">
             <constraints nullable="false" primaryKey="true" primaryKeyName="role_tbl_pkey"/>
@@ -60,7 +60,7 @@
     </createTable>
 </changeSet>
 
-<changeSet author="jcroft (generated)" id="1287760390365-19">
+<changeSet author="jcroft" id="20121201-8">
     <createTable schemaName="public" tableName="driver_tbl">
         <column name="driver_id" type="VARCHAR(38)">
             <constraints nullable="false" primaryKey="true" primaryKeyName="role_tbl_pkey"/>
@@ -72,7 +72,7 @@
 </changeSet>
 
 
-<changeSet author="jcroft (generated)" id="1287760390365-19">
+<changeSet author="jcroft" id="20121201-9">
     <createTable schemaName="public" tableName="city_tbl">
         <column name="stn_id" type="VARCHAR(38)">
             <constraints nullable="false" primaryKey="true" primaryKeyName="role_tbl_pkey"/>
@@ -87,7 +87,7 @@
     <addForeignKeyConstraint baseColumnNames="city_id" baseTableName="city_tbl" baseTableSchemaName="public" constraintName="user_city_tbl_usr_id_fkey" deferrable="false" initiallyDeferred="false" referencedColumnNames="city_id" referencedTableName="city_tbl" referencedTableSchemaName="public"/>
 </changeSet>
 
-<changeSet author="jcroft (generated)" id="1287760390365-19">
+<changeSet author="jcroft" id="20121201-10">
     <createTable schemaName="public" tableName="driver_tbl">
         <column name="trip_id" type="VARCHAR(38)">
             <constraints nullable="false" primaryKey="true" primaryKeyName="role_tbl_pkey"/>
