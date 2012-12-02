@@ -21,6 +21,7 @@ public class MapArea extends ItemizedOverlay<Stop.Instance> {
 	public static Stop.Instance currentLocation;
 	public static AlertDialog.Builder currentPrompt;
 	
+	
 	public MapArea(MapView mv) {
 		super(Map.Constants.TRO_TRO);
 		mv.getOverlays().add(this);
@@ -68,6 +69,20 @@ public class MapArea extends ItemizedOverlay<Stop.Instance> {
 
 		return value;
 	}
+
+	@Override public int size() { return stops.size(); }
+	
+	public void add(Stop.Instance si) {
+
+		try{
+			
+			stops.add(si);
+			setLastFocusedIndex(-1);
+			populate();
+			
+		} catch(Exception e){ Log.d(MapArea.class.getName(), e+""); }
+	}
+	
 	
 	/**  PROMPTS FOR MAP */
 	public void showDialog(int id) {
@@ -89,19 +104,6 @@ public class MapArea extends ItemizedOverlay<Stop.Instance> {
 			}
 		}
 		catch (Exception e) { Log.d(MapArea.class.getName(), e+""); }
-	}
-
-	@Override public int size() { return stops.size(); }
-	
-	public void add(Stop.Instance si) {
-
-		try{
-			
-			stops.add(si);
-			setLastFocusedIndex(-1);
-			populate();
-			
-		} catch(Exception e){ Log.d(MapArea.class.getName(), e+""); }
 	}
 	
 	public Builder setUpPrompt(int id) {

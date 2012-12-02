@@ -16,7 +16,8 @@ import com.google.android.maps.GeoPoint;
 import com.google.android.maps.OverlayItem;
 
 public class Stop extends ContentProvider {
-
+	
+	// THE CONTENT PROVIDER FUNCTIONS
 	@Override
 	public boolean onCreate() {
 		return false;
@@ -52,19 +53,36 @@ public class Stop extends ContentProvider {
 		return 0;
 	}
 	
+	
+	// THE STOP CONTROLS
 	public final static class Table
 	{
 		// Database table
 		public static final String TABLE_STOP = "stops";
 		public static final String COLUMN_ID = "_id";
-		public static final String COLUMN_PROVIDER = "provider";
 		public static final String COLUMN_NAME = "name";
+		public static final String COLUMN_DRIVER = "driver";
 
-		public static final String COLUMN_DESCRIPTION = "description";
-		public static final String COLUMN_ROUTES = "routes";
+		public static final String COLUMN_SEATS = "seats";
+		public static final String COLUMN_LAST_DEPARTURE = "last_departure";
 		public static final String COLUMN_LAT = "lat";
 		public static final String COLUMN_LONG = "long";
 		
+		/*
+		 {
+			"stops": {
+				"stop 1": {
+        			"_id": "database_id",
+        			"name": "stop name", 
+        			"driver": "driver that stopped", 
+        			"last_departure": "time in milliseconds of stop",
+        			"seats": "0 - integer amount of seats available",
+        			"lat": "stop latitude",
+        			"long": "stop longitude"
+				}
+			}
+		 }
+		 */
 //		private static final String DATABASE_NAME = "stops.db";
 //		private static final int DATABASE_VERSION = 1;
 //		private static final String STOPS_TABLE = "stops";
@@ -138,43 +156,6 @@ public class Stop extends ContentProvider {
 		}
 	}
 
-
-
-	public static String getName(Cursor cursor)
-	{
-		return cursor.getString(
-			cursor.getColumnIndex(
-					Table.COLUMN_NAME));
-	}
-	
-	public static int oneE6(double d){ return (int)(1E6 * d); }
-
-	public static int convertLat(Cursor cursor){ 
-
-		double stop_la = cursor.getDouble(cursor.getColumnIndex(Table.COLUMN_LAT));
-		switch(cursor.getInt(0) % 4)
-		{
-		case 0: stop_la -= 1.1; break;
-		case 1: stop_la += 1.7; break;
-		case 2: stop_la -= 0.9; break;
-		case 3: stop_la += 1.2; break;
-		}
-		return oneE6(stop_la); 
-	}
-
-	public static int convertLng(Cursor cursor){ 
-
-		double stop_lo = cursor.getDouble(cursor.getColumnIndex(Table.COLUMN_LONG));
-		switch(cursor.getInt(0) % 4)
-		{
-		case 0: stop_lo += 1.2; break;
-		case 1: stop_lo -= 2.0; break;
-		case 2: stop_lo += 1.3; break;
-		case 3: stop_lo -= 1.5; break;
-		}
-		return oneE6(stop_lo); 
-	}
-
 	public static class Data extends SQLiteOpenHelper {
 		private static final String DATABASE_CREATE =
 			"create table " + Table.TABLE_STOP + " (" 
@@ -202,5 +183,28 @@ public class Stop extends ContentProvider {
 			db.execSQL("DROP TABLE IF EXISTS " + Table.TABLE_STOP);
 			onCreate(db);
 		}
+	}
+
+	
+	// THE UTILITY METHODS
+	public static String getName(Cursor cursor)
+	{
+		return cursor.getString(
+			cursor.getColumnIndex(
+					Table.COLUMN_NAME));
+	}
+	
+	public static int oneE6(double d){ return (int)(1E6 * d); }
+
+	public static int convertLat(Cursor cursor){ 
+
+		double stop_la = cursor.getDouble(cursor.getColumnIndex(Table.COLUMN_LAT));
+		return oneE6(stop_la); 
+	}
+
+	public static int convertLng(Cursor cursor){ 
+
+		double stop_lo = cursor.getDouble(cursor.getColumnIndex(Table.COLUMN_LONG));
+		return oneE6(stop_lo); 
 	}
 }
