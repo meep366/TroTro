@@ -68,8 +68,8 @@
 
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="index.jsp">Home</a></li>
-          <li><a href="about.jsp">About</a></li>
+          <li><a href="index.jsp">Home</a></li>
+          <li class="active"><a href="about.jsp">About</a></li>
           <li><a href="contact.jsp">Contact</a></li>
         </ul>
         <h3 class="muted">TroTro</h3>
@@ -78,24 +78,10 @@
       <hr>
 
       <div class="jumbotron">
-        <h1>No More Tro-Tro Trouble</h1>
-        <img alt="Tro-Tro Logo" src="/images/trotro-bus-smllr.png"/>
-        <p class="lead">Our Android app is quick and easy to use for drivers and passengers.<br/> Get it here for free.</p>
-        <a class="btn btn-large btn-success" href="#">Sign up today</a>
-      </div>
+        <p class="lead">Many people depend on shared transportation. Too much time is wasted when passengers are forced to wait for private bus systems like Tro-Tros in Ghana. All this waiting makes it harder for people to work and plan their day. We thought that an app could help Tro-Tro drivers give more information about schedules and routes to riders. We want to make it easy for drivers to tell passengers how many seats are available, where the bus is going, and when the bus is leaving. This helps drivers be more efficient in filling their Tro-Tro. This helps riders plan their day and avoid the wait. </p>
+        <p class="lead">This app was developed by <a href="http://www.rhok.org">Random Hacks of Kindness</a>  and the <a href="http://innovationchallenge.peacecorps.gov">Peace Corps Innovations Challenge</a>. A team of volunteers in Atlanta, Georgia and Washington, DC spent a weekend developing this app. Tro-Tros by the people, for the people.</p>
+        <p class="lead">Find out more about this project and how you can help <a href="http://www.rhok.org/problems/no-more-tro-tro-uble-public-transportation-app-lose-wait-sms-efficiency-app">here</a>.</p>
 
-      <hr>
-
-      <div class="row-fluid marketing">
-        <div class="span6">
-          <h4>Drivers</h4>
-          <p>Our app helps you fill up your Tro-Tro faster. It helps match you with riders. This means less waiting for everybody! You can also get data to help you be more efficient with your routes. That means better customer service and more riders for you.</p>
-        </div>
-
-        <div class="span6">
-          <h4>Riders</h4>
-          <p>Our app lets you know when the Tro-Tro is full and ready to leave so you don&apos;t have to wait. You can finish your shopping and go- no more waiting! The app will also let you know when a car left the station and where it is going. No more waiting!.</p>
-        </div>
       </div>
 
       <hr>

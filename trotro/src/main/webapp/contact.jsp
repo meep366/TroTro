@@ -68,9 +68,9 @@
 
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="index.jsp">Home</a></li>
+          <li><a href="index.jsp">Home</a></li>
           <li><a href="about.jsp">About</a></li>
-          <li><a href="contact.jsp">Contact</a></li>
+          <li class="active"><a href="contact.jsp">Contact</a></li>
         </ul>
         <h3 class="muted">TroTro</h3>
       </div>
@@ -78,24 +78,8 @@
       <hr>
 
       <div class="jumbotron">
-        <h1>No More Tro-Tro Trouble</h1>
-        <img alt="Tro-Tro Logo" src="/images/trotro-bus-smllr.png"/>
-        <p class="lead">Our Android app is quick and easy to use for drivers and passengers.<br/> Get it here for free.</p>
-        <a class="btn btn-large btn-success" href="#">Sign up today</a>
-      </div>
 
-      <hr>
-
-      <div class="row-fluid marketing">
-        <div class="span6">
-          <h4>Drivers</h4>
-          <p>Our app helps you fill up your Tro-Tro faster. It helps match you with riders. This means less waiting for everybody! You can also get data to help you be more efficient with your routes. That means better customer service and more riders for you.</p>
-        </div>
-
-        <div class="span6">
-          <h4>Riders</h4>
-          <p>Our app lets you know when the Tro-Tro is full and ready to leave so you don&apos;t have to wait. You can finish your shopping and go- no more waiting! The app will also let you know when a car left the station and where it is going. No more waiting!.</p>
-        </div>
+        <p class="lead"><a href="https://github.com/meep366/TroTro">GitHub Project</a></p>
       </div>
 
       <hr>

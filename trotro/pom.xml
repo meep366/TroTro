@@ -43,7 +43,7 @@
               <connector implementation="org.eclipse.jetty.server.ssl.SslSelectChannelConnector">
                 <port>8443</port>
                 <maxIdleTime>60000</maxIdleTime>
-                <keystore>/home/jcroft/tomcat-keys.jks</keystore>
+                <keystore>/Users/jack/tomcat-keys.jks</keystore>
                 <password>Heero9ee</password>
                 <keyPassword>Heero9ee</keyPassword>
               </connector>
@@ -331,6 +331,22 @@
           <version>3.2.6.ga</version>
         </dependency>
       </dependencies>
-
-
+    <repositories>
+      <repository>
+        <!-- Please consider setting up your own on-site repository proxy such as with Nexus and pointing the url element below at that instead -->
+        <id>oss-sonatype-snapshots</id>
+        <name>OSS Sonatype Snapshots Repository</name>
+    	  <url>http://oss.sonatype.org/content/repositories/snapshots</url>
+        <!--
+        <releases>false</releases>
+        <snapshots>true</snapshots>
+        -->
+      </repository>
+        <repository>
+            <id>maven2-repository.dev.java.net</id>
+            <name>Java.net Repository for Maven</name>
+            <url>http://download.java.net/maven/2/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
 </project>
