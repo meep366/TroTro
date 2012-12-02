@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name><![CDATA[Solar Radiation ]]></name>
+  <description><![CDATA[]]></description>
+  <atom:author>
+    <atom:name></atom:name>
+    <atom:uri></atom:uri>
+  </atom:author>
+  <atom:contributor>
+    <atom:name>henry baffoe</atom:name>
+    <atom:uri>http://geocommons.com/users/zaaza</atom:uri>    
+  </atom:contributor>
+  <atom:rights>Creative Commons Attribution-Share Alike 2.0</atom:rights>  
+  <atom:link rel="self" href="http://geocommons.com/overlays/259098.kml" type="application/vnd.google-earth.kml+xml"/>
+  <atom:link rel="edit" href="http://geocommons.com/overlays/259098.atom" type="application/atom+xml;type=entry"/>
+  <atom:link rel="alternate" href="http://geocommons.com/overlays/259098.atom" type="application/atom+xml"/>
+  <atom:link rel="alternate" href="http://geocommons.com/overlays/259098.html" type="text/html"/>  
+  <TimeStamp></TimeStamp>
+  
+      <!-- Poly Style -->
+      
+      <StyleMap id="default">
+      <Pair>
+      	<key>normal</key>
+        <styleUrl>#default_normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#default_highlight</styleUrl>
+      </Pair>
+      </StyleMap>
+      
+    <Style id="default_normal">
+    <IconStyle>
+      <scale>1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+      </Icon>
+    </IconStyle>
+    <LabelStyle>
+    	<scale>0</scale>
+    
+        </LabelStyle>
+        <LineStyle>
+          <color>eeff6600</color>
+          <width>3</width>
+        
+        </LineStyle>
+        <PolyStyle>
+          <color>99ff6600</color>
+          <outline>1</outline>
+          <fill>1</fill>
+        </PolyStyle>
+    <BalloonStyle>
+      <bgColor>ffffff</bgColor>
+      <text>
+        <![CDATA[
+            <p><b><font color="#000000">$[RadValue/displayName]:</font></b> <font color="#555555">$[RadValue]</font></p>
+            <p><b><font color="#000000">$[StationNa/displayName]:</font></b> <font color="#555555">$[StationNa]</font></p>
+          <p align="center"><font size=3 face=arial color="#0099FF">Powered by GeoCommons</font></p>
+        ]]>
+      </text>
+    </BalloonStyle>
+    </Style>
+      
+      
+    <Style id="default_highlight">
+    <IconStyle>
+      <scale>1</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+      </Icon>
+    </IconStyle>
+    <LabelStyle>
+    	<scale>0</scale>
+    
+        </LabelStyle>
+        <LineStyle>
+          <color>ddffffff</color>
+          <width>2</width>
+        
+        </LineStyle>
+        <PolyStyle>
+          <color>ccff6600</color>
+          <outline>1</outline>
+          <fill>1</fill>
+        </PolyStyle>
+    <BalloonStyle>
+      <bgColor>ffffff</bgColor>
+      <text>
+        <![CDATA[
+            <p><b><font color="#000000">$[RadValue/displayName]:</font></b> <font color="#555555">$[RadValue]</font></p>
+            <p><b><font color="#000000">$[StationNa/displayName]:</font></b> <font color="#555555">$[StationNa]</font></p>
+          <p align="center"><font size=3 face=arial color="#0099FF">Powered by GeoCommons</font></p>
+        ]]>
+      </text>
+    </BalloonStyle>
+    </Style>
+          <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.6]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Kumasi]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-1.62108449918056,6.72751780573405</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.4]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Wa]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-2.50000000119686,10.0499999865965</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.5]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Accra]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-0.166670000595062,5.59999999347483</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.1]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Ada]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>0.633329999298229,5.7833299929077</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.8]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Axim]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-2.13333000032835,4.79999999566381</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.9]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Takoradi]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-1.75164002729157,4.88502227116414</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.6]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Sefwi Bekwai]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-2.33333000057292,6.19999999265759</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.0]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Adidome (AS)]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>0.516669999247218,6.06666999235373</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.0]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Ho]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>0.466669999134198,6.59999999132188</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.1]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Kete-Krachi]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-0.033330001075184,7.81666998928864</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.8]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Sunyani]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-2.35180772705173,7.34164889153687</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.9]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Wenchi]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-2.10000000086411,7.7499999897799</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.3]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Tamale]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-0.850000001323658,9.54999998694275</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.3]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Yendi]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-0.00557314165968388,9.4429445050025</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.2]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Bole]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-2.48333000103797,9.03332998789333</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.5]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Navrongo]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-1.10000000153069,10.8999999854602</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.8]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Koforidua]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-0.250000000693731,6.08332999248905</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.9]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Akuse]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>0.116669999275829,6.09999999237624</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[4.5]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Akim Oda]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-0.983330000613867,5.93332999294649</coordinates>
+</Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#default</styleUrl>
+        <name><![CDATA[Rad_Value:]]></name>
+      
+      <ExtendedData>
+          <Data name='RadValue'>
+            <displayName><![CDATA[Radiation(kWh/m2/day)]]></displayName>
+            <value><![CDATA[5.0]]></value>
+          </Data>
+          <Data name='StationNa'>
+            <displayName><![CDATA[Station]]></displayName>
+            <value><![CDATA[Saltpond]]></value>
+          </Data>
+      </ExtendedData>
+        <Point>
+<coordinates>-1.06667000045969,5.19999999453877</coordinates>
+</Point>
+    </Placemark>
+</Document>
+</kml>
