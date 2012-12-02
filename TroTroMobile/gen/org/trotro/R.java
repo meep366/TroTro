@@ -13,26 +13,33 @@ public final class R {
     public static final class drawable {
         public static final int ic_action_search=0x7f020000;
         public static final int ic_launcher=0x7f020001;
-        public static final int ic_trotro_0=0x7f020002;
-        public static final int ic_trotro_1=0x7f020003;
-        public static final int ic_trotro_2=0x7f020004;
-        public static final int ic_trotro_3=0x7f020005;
+        public static final int ic_trotro=0x7f020002;
+        public static final int ic_trotro_0=0x7f020003;
+        public static final int ic_trotro_1=0x7f020004;
+        public static final int ic_trotro_2=0x7f020005;
+        public static final int ic_trotro_3=0x7f020006;
+        public static final int trotro_512=0x7f020007;
+        public static final int trotro_bus_icon_48=0x7f020008;
+        public static final int trotro_bus_smllr=0x7f020009;
     }
     public static final class id {
-        public static final int gallery=0x7f060003;
-        public static final int imgdesc=0x7f060004;
-        public static final int map=0x7f060002;
-        public static final int map_gallery_wrapper=0x7f060001;
-        public static final int map_wrapper=0x7f060000;
+        public static final int gallery=0x7f040004;
+        public static final int imgdesc=0x7f040005;
+        public static final int map=0x7f040003;
+        public static final int map_gallery_wrapper=0x7f040002;
+        public static final int map_wrapper=0x7f040001;
+        public static final int stop=0x7f040000;
     }
     public static final class layout {
         public static final int ghana=0x7f030000;
         public static final int map_gallery=0x7f030001;
     }
     public static final class string {
-        public static final int app_name=0x7f040000;
+        public static final int api_key=0x7f050001;
+        public static final int app_name=0x7f050000;
+        public static final int debug_api_key=0x7f050002;
     }
     public static final class style {
-        public static final int AppTheme=0x7f050000;
+        public static final int AppTheme=0x7f060000;
     }
 }

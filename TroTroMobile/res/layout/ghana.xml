@@ -13,5 +13,5 @@
 			android:layout_width="fill_parent"
 			android:layout_height="fill_parent" 
 			android:layout_below="@id/map_gallery_wrapper"
-			android:apiKey="0QnEHTKe2eYHnl9I_tBmXYg3v8vfuqrakrCgzcg" />
+			android:apiKey="@string/api_key" />
 	</RelativeLayout>

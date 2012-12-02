@@ -91,8 +91,8 @@ public class Stop extends ContentProvider {
 
 		public Instance(Parcel parcel) {
 			this(new GeoPoint(oneE6(parcel.readDouble()),
-					oneE6(parcel.readDouble())),
-					parcel.readString(), parcel.readString());
+				oneE6(parcel.readDouble())),
+				parcel.readString(), parcel.readString());
 
 			_id = parcel.readInt();
 		}
