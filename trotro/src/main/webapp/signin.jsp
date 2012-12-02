@@ -70,7 +70,7 @@
         <br/>
           <input type="checkbox" value="remember-me"> Remember me
         </label>
-        <a href="index.jsp"><button class="btn btn-large btn-primary" type="submit">Sign in</button></a>
+        <a href="index.jsp"><button class="btn btn-large btn-primary">Sign in</button></a>
       </form>
 
     </div> <!-- /container -->

@@ -70,9 +70,9 @@
         <ul class="nav nav-pills pull-right">
           <li><a href="index.jsp">Home</a></li>
           <li><a href="stninfo.jsp">Stations</a></li>
-          <li class="active"><a href="about.jsp">About</a></li>
+          <li><a href="about.jsp">About</a></li>
           <li><a href="contact.jsp">Contact</a></li>
-          <li><a href="driverroute.jsp">Add Route</a></li>
+          <li class="active"><a href="driverroute.jsp">Add Route</a></li>
           <li><a href="signin.jsp">Sign In</a></li>
         </ul>
         <h3 class="muted">TroTro</h3>
@@ -80,12 +80,19 @@
 
       <hr>
 
-      <div class="jumbotron">
-        <p class="lead">Many people depend on shared transportation. Too much time is wasted when passengers are forced to wait for private bus systems like Tro-Tros in Ghana. All this waiting makes it harder for people to work and plan their day. We thought that an app could help Tro-Tro drivers give more information about schedules and routes to riders. We want to make it easy for drivers to tell passengers how many seats are available, where the bus is going, and when the bus is leaving. This helps drivers be more efficient in filling their Tro-Tro. This helps riders plan their day and avoid the wait. </p>
-        <p class="lead">This app was developed by <a href="http://www.rhok.org">Random Hacks of Kindness</a>  and the <a href="http://innovationchallenge.peacecorps.gov">Peace Corps Innovations Challenge</a>. A team of volunteers in Atlanta, Georgia and Washington, DC spent a weekend developing this app. Tro-Tros by the people, for the people.</p>
-        <p class="lead">Find out more about this project and how you can help <a href="http://www.rhok.org/problems/no-more-tro-tro-uble-public-transportation-app-lose-wait-sms-efficiency-app">here</a>.</p>
+      <div class="container">
 
-      </div>
+            <form class="form-signin">
+
+              <h2 class="form-signin-heading">Add Route</h2>
+              <input type="text" class="input-block-level" placeholder="Current Station"/>
+              <input type="text" class="input-block-level" placeholder="Destination Station"/>
+              <input type="text" class="input-block-level" placeholder="Seats Available"/>
+
+              <a href="index.jsp"><button class="btn btn-large btn-primary" type="submit">Add Route</button></a>
+            </form>
+
+          </div> <!-- /container -->
 
       <hr>
 

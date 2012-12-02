@@ -72,6 +72,7 @@
           <li><a href="stninfo.jsp">Stations</a></li>
           <li><a href="about.jsp">About</a></li>
           <li><a href="contact.jsp">Contact</a></li>
+          <li><a href="driverroute.jsp">Add Route</a></li>
           <li><a href="signin.jsp">Sign In</a></li>
 
         </ul>
