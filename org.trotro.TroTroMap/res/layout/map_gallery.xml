@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/map_gallery_wrapper"
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:layout_alignParentTop="true">
+	<RelativeLayout
+			android:orientation="vertical"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content">
+		<Gallery 
+		    android:id="@+id/gallery"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:background="@android:color/darker_gray"/>
+		<TextView
+	    	android:id="@+id/imgdesc"
+	 			android:layout_width="fill_parent" 
+		    android:layout_height="30dip" 
+		    android:textSize="11dip"
+				android:gravity="center"
+		    android:singleLine="false"
+		    android:ellipsize="end"
+		    android:text="Testing Bottom"
+	      android:layout_below="@id/gallery"/>
+  	</RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,15 @@
+keytool -genkey -keypass trotro -keystore trotro_keystore.keystore -alias trotrokey -storepass trotro -validity 10000 -dname "CN=Android TroTro,O=Android,C=US"
+
+keytool -list -keystore trotro_keystore.keystore -storepass trotro
+
+https://developers.google.com/android/maps-api-signup
+
+Keystore type: JKS
+Keystore provider: SUN
+
+Your keystore contains 1 entry
+
+trotrokey, Dec 1, 2012, PrivateKeyEntry, 
+Certificate fingerprint (MD5): 99:8A:61:A8:25:2A:2D:ED:28:D9:8B:2E:79:C4:78:F0
+
+0QnEHTKe2eYEUuTnodz5kUGPpIpMK_XvYVQOVPA

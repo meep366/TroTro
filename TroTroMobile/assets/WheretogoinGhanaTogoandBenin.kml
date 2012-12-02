@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Where to go in Ghana, Togo and Benin?</name>
+  <description><![CDATA[An interactive tourist map by Jolinaiko Eco Tours (http://www.joli-ecotours.com) with interesting places to visit in Ghana, Togo and Benin, with an emphasis on community-based ecotourism destinations. Click on a destination in the list below or on the map for information.]]></description>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://www.joli-ecotours.com/googlemaps/compass.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Ada Foah, relaxing on the beach</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/adafoah.jpg"><span>Beach hut in Ada Foah</span>Ada Foah is somewhat off the beaten track in coastal Ghana and a perfect place to relax from your journeys. Beach camps, such as Maranatha, offer hammocks under palm trees, with grilled barracuda and sole with chips and drinks. We recommend Dreamland Beach Resort, especially for travellers with children, and the cozy Esime Guesthouse in town.&nbsp;</div><div dir="ltr"><br>An idea is to cross the river from Ada to one of the many islands dotting the estuary or to visit the weekly Ananyui market by ferry-canoe.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>0.635490,5.781333,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digya National Park</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/digya.jpg"><span>Digya National Park</span>If you really like to go off the beaten track, arrange a trip to the northern part of Digya National Park with us. The wildlife rangers can take you on a hiking safari through the savannah woodlands combined with a canoe trip on the Sene River. <br><br>The rangers’ camp offers a great camping ground and Jolinaiko will provide the necessary equipment (tents and mattresses). The longer you stay the more chance you have to spot wildlife species such as antelopes, monkeys, warthogs and if you are really lucky, elephants. The serene nature, colorful river birds and friendly fishing communities are the main ingredients for a memorable camping adventure, preferably in dry season from November till April.</div>
+<p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-0.398254,7.534041,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Atsiekpoe and the Jolinaiko Cashew Village Lodge</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/atsiekpoe.jpg"><span>The ferry canoe to Atsiekpoe</span>The village of Atsiekpoe is only a one and a half hour drive from Accra, after which you find yourself in a peaceful place surrounded by beautiful nature. To get to Atsiekpoe you need to cross the Volta river by ferry-canoe. Local life is very much centered around the river where local fishermen prepare their boats and nets, children play and swim, and women do their laundry.The village consists largely of termite clay houses with thatched roofs. <br><br>
+
+The <a href="http://www.joli-ecotours.com/villagelodge-atsiekpoe.htm" target="_blank">Cashew Village Lodge</a>, built by Jolinaiko Eco Tours, is situated right on the riverbank, offering a great view and a welcoming breeze. The lodge consists of two mud-brick/termite clay buildings with thatched roofs offering five basic guestrooms. There is a simple bathhouse (bucket shower), self-composting toilet, local-style kitchen and a summer hut at the waterfront. During your stay at the Cashew Village Lodge, you can take part in various 'community experiences' which are organized by the villagers.
+</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>0.358772,6.049747,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Elmina Castle</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/elmina.jpg"><span>Elmina Castle</span>Elmina Castle was built by Portugal in 1482 as São Jorge da Mina (St. George Castle). It is a beautiful place with a dubious past. In 1637 it was seized by the Dutch from the Portuguese. First established as a trade settlement, the castle later became one of the most important stops on the route of the Atlantic slave trade. The slave trade continued under the Dutch until 1814; in 1871 the Dutch Gold Coast, including the fort, became a possession of the British Empire. The castle is recognized by UNESCO as a World Heritage Site.<br><br>You can visit the fort and its museum, climb St. Jago Hill and enjoy the view of colorful Elmina and its lagoon and fishing harbour. Also worth a visit is the Dutch Cemetery. You can combine your visit with the nearby Cape Coast Castle.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-1.347928,5.082523,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cape Coast Castle</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/capecoast.jpg"><span>Cape Coast Castle</span>The Cape Coast Castle was built for the slave-trade and is one of the most impressive of Ghana's old forts. It was originally built by the Dutch in 1637, later expanded by the Swedes, finally the British took control of it in 1664 and turned it into their colonial headquarters. It stayed that way for the next 200 years until they moved the capital to Accra in 1877.
+<br><br>
+The Cape Coast Castle is now an excellent museum with information about the history of Ghana, the slave-trade and local culture. Tours through the Castle will take you through the dungeons and the "door of no return".</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-1.240822,5.103656,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kakum National Park</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/kakum.jpg"><span>The Canopy Walkway in Kakum</span>Half an hour drive from Cape Coast and Elmina, you find Kakum National Park. The 375 square km area is covered with tropical rainforest and contains many endangered animal species. 
+<br><br>
+Kakum National Park is famous for its long series of hanging bridges at the forest canopy level known as the "Canopy Walkway." At 40 meters height, the visitor can approach the plants and animals from a vantage point that would otherwise be inaccessible to people. The Canopy Walkway passes over 7 bridges and runs over a length of 330 meters. 
+<br><br>
+What about an overnight stay at the Kakum Tree House, a 30 meter high platform in the middle of the rain forest? Hearing the sounds of the forest, especially the birds and monkeys will certainly become a memorable experience.</div>
+<p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-1.340332,5.391805,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Liati Wote, Tagbo Falls and Mount Afadjato</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/liatiwote.jpg"><span>Liati Wote and Mount Afadjato</span>Liati Wote is one of Jolinaiko's favourite ecosites. This pretty village in the Volta Region, close to the Togo border, is located at the foot of Mount Afadjato. The country's highest peak (885 m) offers great hiking possibilities to the top of the mountain or through the tropical forest to the Tagbo waterfalls. 
+<br><br>
+The delicious meals served in Stella's Inn are enough reason alone to travel all the way to Liati Wote. Jolinaiko offers 2-3 days hiking and camping tours in this area on request.</div>
+<p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>0.567341,7.021846,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wli Falls</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/wlifalls.jpg"><span>Wli Falls</span>The Wli falls - also known as Agumatsa Falls - are near the Togolese border in the Volta Region. The 50 meter high falls can be reached after a short walk through the forest.
+<br><br>
+You can climb to the upper parts of the falls and visit the 'Shrine of the Lesser Gods' with a guide.  
+<br><br>
+There is a visitors center, a few small shops and hotels. Wli is one of the more touristy places in Ghana.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>0.591888,7.118608,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tafi Atome Monkey Sanctuary</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/tafiatome.jpg"><span>Monkey in Tafi Atome</span>Tafi Atome Monkey Sanctuary is like a sister sanctuary of Baobeng Fiema as it harbours a similar population of the sacred Mona monkeys. The story goes that the ancestors of the modern villagers came from Brong Ahafo and brought with them the fetish for monkeys and up till date, this fetish still exist. Enjoy spotting these little monkeys from a close distance in this typical little village in of the Volta region.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>0.385380,6.905125,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Amedzofe and Mount Gemi </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/amedzofe.jpg"><span>Hiking to the top of Mount Gemi</span>Amedzofe is a pretty settlement on the slopes of Mount Gemi, one of the highest mountains (760 m) in Ghana. Enjoy the panoramic views and let your heart beat while taking an adventurous descent to the Oti waterfalls. Our guide likes to take you to one of our befriended communities where you enjoy the hospitality of the chief by drinking palmwine or fresh coconut juice.</div>
+<p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>0.446491,6.831329,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mole National Park</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/mole.jpg"><span>Elephants in Mole</span>With 4849 km2, Mole National Park is Ghana's largest National Park. If you do an early morning or late afternoon safari, you can see lots of animals. 
+<br><br>
+Most commonly spotted are elephants, warthogs and various species of antelope, monkeys and birds. If you are lucky you'll even see buffaloes. It's very enjoyable to watch elephants taking their bath from the pool-side terrace of Mole Motel. On request we offer special bird-watching tours in the park.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-1.794891,9.584501,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paga Sacred Crocodile Ponds and Nania Slave Camp </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/pagacrocodiles.jpg"><span>Crocodiles in Paga</span>Have a face-to-face encounter with crocodiles near the Chief or Zenga Pond. The crocodiles are regarded as sacred since the local Kassena People believe that the souls of the ancestors reside in these animals.<br><br>We also visit the relics of the The Nania Slave Camp, a hidden northern slave market that fed the southern slave sales in the 19th century.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>
+]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-1.096745,10.976520,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sirigu Village and Traditional Arts Centre</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/sirigu.jpg"><span>Traditional house in Sirigu</span>Situated close to the Burkina Faso border, the sub-Saharan village Sirigu is well-known for its pottery, basket weaving and unique symbolic wall decoration. <br><br>There is a community guesthouse built in the same style as the surrounding compounds. It is breathtaking to spend the night at the top of the roof viewing a heaven full of bright shining stars.<br><br>For more info visit the website of the <a href="http://www.swopa.org/" target="_blank">Sirigu Women Organization of Pottery and Art</a>. </div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>
+]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-0.902381,10.908809,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sognaayilli village experience </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/sognaayilli.jpg"><span>Sognaayilli village</span>Experience village life in the tradional Dagomba village Sognaayilli where our friends of the <a href="http://www.meetafrica.org" target="_blank">Meet Africa organization</a> offer a unique experience. <br><br>You can learn about the rich Dagomba culture and traditions during an attractive village walk. You can stay in the local guesthouse or with a host family. Your contribution is used for the development of the village.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-0.929074,9.488175,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Baobeng Fiema Monkey Sanctuary</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/baobengfiema.jpg"><span>Monkey in Baobeng Fiema</span>The Boabeng Fiema Monkey Sanctuary was created to protect the monkey population around the villages Baobeng and Fiema.<br><br>The inhabitants of the villages regard the Mona monkey as sacred and this is the reason that the significant monkey populations have survived here in contrary to most other parts of Ghana. It is a special experience to see this normally shy forest monkeys interact at such close distance.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-1.697602,7.708972,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wechiau Hippo Sanctuary</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/wechiau.jpg"><span>Hippo's in Wechiau</span>The <a href="http://www.ghanahippos.com" target="_blank">Wechiau Community Hippo Sanctuary</a> is the best preserved hippo sanctuary in Ghana. Even though it is located in a remote area, it is highly rewarding to pay a visit and watch the hippo population from a canoe on the Black Volta River. 
+<br><br>
+The sub-saharan area has a lot to offer, like bird watching, mountain biking, and meeting the indigenous Lobi and Dagari people. Spend an extra-ordinary night on the hippo hide-out, a platform built along-side the river.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-2.786536,9.733464,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nzulezu Stilt Village, Amansuri Wetlands</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/nzulezu.jpg"><span>Houses on stilts in Nzulezu</span>Nzulezu Stilt Village is an amazing community built entirely on stilts in the middle of Lake Tadane. All structures are suspended over the water and transport is only by canoe.
+<br><br>
+The excursion to Nzulezu involves a fascinating canoe trip through the Amansuri Wetlands and across the lake. It is a lovely trip on which you can see many different kind of water birds. Most of the inhabitants are farmers and fishermen. According to tradition, ancestors of the village were brought to their present place under the guide of a snail. 
+<br><br>
+Nzulezo is situated in the south-west corner of Ghana, about 5 km from the town of Beyin. From November till February, a trip to Nzulezu can be combined with a sea turtle expedition.
+
+</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>
+]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-2.597816,5.020976,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kyabobo National Park</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/kyabobo.jpg"><span>The Breast Mountains in Kyabobo</span>Located in the northern part of the Volta region, is Kyabobo National Park, one of the more remote places of Ghana. It stretches over 360 square kilometres and is contiguous with Fazao Malfacassa National Park in Togo. Kyabobo may not be easy to reach, but it is well worth the effort. 
+<br><br>
+Everyone who enjoys the outdoors will find something exciting at Kyabobo, especially the network of trails for hiking, waterfalls, biking, camping, canoeing and wildlife viewing.. There are some great hiking trails only a couple of hours long, others span the entire park and can take several days. Travellers can even enjoy settling into village life with an overnight homestay. You can also stay in Nkwanta or on the camp site near the park.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>0.529822,8.279270,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bunso Arboretum</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/bunso.jpg"><span>The Bunso Guesthouse</span>Bunso Aboretum is a protected forest reserve and is home to an extensive variety of plants, trees and herbs. More than 100 bird species have been recorded and there is a butterfly sanctuary within the aboretum. It's a nice place to break your journey to Kumasi.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-0.460911,6.280150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tanoboase Sacred Grove </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/tanoboase.jpg"><span>Rock formations in the forest</span>Tano Sacred Grove is a place full of history. It encloses a cluster of striking sandstone rock formations which were one of the earliest settlements of the Bono people. The area offers great hiking possibilities through a beautiful environment of towering rock formation within a semi-deciduous forest.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-1.868405,7.659658,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tongo Hills and Tenzug shrines</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/tongo.jpg"><span>Tongo rock formations</span>The area of the Tongo Hills is unique for its architectural landscape of granite rock formations and is considered one of the most important cultural sites in West Africa. Explore the natural caves that have been used as sacred shrines by the local people for centuries. Visit the yearly vibrant Golob or Boar' daam festival (in October) with Jolinaiko Eco Tours. The Tengzug shrines are a proposed UNESCO World Heritage site.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-0.798032,10.717328,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Xavi bird watching and canoe tour</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/xavi.jpg"><span>Canoe trip on the Lotor river</span>Xavi is an Ewe village with a rich culture of traditional beliefs. Traditional rites are performed every year at different seasons. Several shrines in Xavi are worshipped and many taboos are revered concerning the river and its fishing methods.  
+<br><br>
+Enjoy the abundant flora and fauna early in morning while paddling a canoe on the Lotor river or Avu Lagoon's wetlands. Meet local people and observe their local fishing practises.
+<br><br>
+Following the river tour, you can visit Xavi's Baobab Tree Grove, lying just west of the Lotor River. This grove is a haven for more than sixty Boabab trees.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>0.802002,6.025848,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ankasa Conservation Area</name>
+    <description><![CDATA[<div><img src="http://www.joli-ecotours.com/googlemaps/images/ankasa.jpg"><span>The Bamboo Cathedral</span>Ankasa Resource Reserve and Nini Suhien National Park are two protected forest areas that come together to form a rich reserve of about 510 square km of virgin forest, the last tropical rainforest still intact in Ghana. Being the area with the highest rainfall in Ghana, Ankasa is the richest forest in terms of botanical diversity in the country.    <br><br>
+
+Ankasa is known for its wide variety of birds and butterflies and a popular destination for serious birdwatchers. Quite spectacular is the Bamboo Cathedral, which is located at Nkwanta, about 8 km from the Ankasa gate of the park. The giant bamboos lean in toward each other and look very much like the arched ceiling of a cathedral. </div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-2.711563,5.276606,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wassa Domama, rock shrine and canoe trip</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/wassadomama.jpg"><span>Wassa Domama rock shrine</span>Domama is a village northwest of Cape Coast. Near the village is a large cave, hidden in the forest, which is used as a shrine, to talk to the gods.<br><br>You can take a tour with a local guide to the shrine, combined with a canoe trip on the Pra river, the longest river in Ghana. The canoe trip is not organised on wednesdays and during high water conditions in June and July. <br><br>There is a visitors center and a guesthouse. A visit to Domama can be combined with a visit to nearby Kakum National Park.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-1.543665,5.363947,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shai Hills, wildlife reserve</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/shaihills.jpg"><span>Boabab tree in Shai Hills</span>Shai Hills Resource Reserve is a 51 square km wildlife park. It is situated only 50 km from Accra and it takes less than an hour to reach the park on the road to the Volta lake. <br><br>Shai Hills has a varied package of wildlife, archaeological sites, caves and granite hills.<br><br>The vegetation of Shai Hills is dry, coastal evergreen savannah and part of the park is made up of imposing hills covered with dry forest. Major wildlife to be seen include olive baboons in large numbers, green monkeys, kobs and bushbucks, as well as lizards, snakes and hundreds of species of birds and butterflies. </div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>
+]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>0.066862,5.909409,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Davedi, Jolinaiko Pineapple Lodge</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/davedi.jpg"><span>Palm oil production in Davedi</span>Davedi is a rural village, situated about 60 kilometers northeast of Lomé. Typical for Davedi are its vast pineapple fields. Like any other rural population in West Africa, the majority of the people are farmers. For Davedi oil palm trees and pineapples are the main cash crops. While men are mainly engaged in palm wine distillation, women are enganged in processing palm nuts into palm oil.
+<br><br>
+Jolinaiko is building basic accommodation in Davedi: <a href="http://www.joli-ecotours.com/villagelodge-davedi.htm" target="_blank">the Pineapple Village Lodge</a>. A mud-brick building with thatch roofing is completed, offering two guestrooms. Turning Davedi into a small-scale eco-destination was the initiative of our guide Isaac Aziawo, who was born in Davedi. During your stay at the Pineapple Village Lodge, you can take part in various 'community experiences' which are organized by the villagers.</div>
+<p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>1.271152,6.443077,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Asumura Forest Reserve</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/asumura.jpg"><span>The White Necked Rockfowl</span>For 40 years it was thought that the White Necked Rockfowl was extinct, but in 2003 it was discovered that the bird still lives in the forests of Asumura. Around Asumura are three forest reserves: Subim, Ayum and Bonsam Bepo. Together they are about 500 square km. <br><br>
+
+Eventhough tourism is not yet well developed, it is possible to arrange a guided tour through the beautiful forest, or hike the Bonsam Bepo trail, on which you'll see nests of the bird. 
+</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-2.606850,6.791103,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gwollu, slave trade defense wall </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/gwollu.jpg"><span>The historical defense wall in Gwollu</span>Gwollu is a very remote village near the border of Burkina Faso. The main attraction is the historical defense wall, a reminder of the ancient slave routes that led through this region. The wall was built in the 19th century to protect the village from slave hunters. <br><br>
+
+Besides the wall, you can visit the local weavers, blacksmiths and basket weavers. Gwollu could be visited during your journey in the far-north from Wa to Bolgatanga or vice versa. </div>
+<p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-2.221727,10.982818,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bobiri Forest and Butterfly Sanctuary</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/bobiri.jpg"><span>The Bobiri guesthouse</span>The Bobiri Forest, about 10 km from Kumasi, is one of the best preserved tropical rainforests with many tall and ancient tries and a flamboyant flower garden attracting over 500 species of butterflies, mainly from April till June. <br><br>The guesthouse is one of our favorites. Enjoy your meals and the serenity while sitting on the veranda of the pretty wooden guesthouse in the middle of the beautiful forest. </div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-1.344028,6.686895,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Adanwomase, royal Kente weaving</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/adanwomase.jpg"><span>Weaving of Kente cloth</span>Adanwomase is one of the villages in this area where the centuries-old Kente-weaving tradition is kept alive. Under the guidance of the Kente chief, Adanwomase weavers continue to weave cloths for the Ashanti King, royals, and anyone who appreciates the history and cultural significance woven into the colorful geometric designs of Ashanti Kente. <br><br>
+
+Take a guided tour to learn about the history, meanings and production steps of Ashanti Kente cloth, offering you a chance to try your hand at thread spinning, warping and weaving.
+<br><br>
+Adanwomase is a nice place to break you journey to the north.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-1.475644,6.812665,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Adjeikrom, cocoa farming</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/adjeikrom.jpg"><span>Mr. Osa, our guide in Adjeikrom</span>In the midst of land of the Akim tribe is an independent community of people of the Ga tribe, mainly living of cocoa farming. Historically, Adjeikrom is of political significance as the birthplace of one of Ghana's fighters for indepencence, a member of the 'big six' called Ako Adjei.
+<br><br>
+It's worth to undertake a cocoa and village tour to see how cocoa is grown, harvested, fermented and dried. Or hike to the top of the escarpment, hanging over the village, and enjoy incredible views. Adventurous travelers like to stay in the basic community guesthouse.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-0.411558,6.294909,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Afram Plains, remote Volta Lake exploring </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/aframplains.jpg"><span>Ferry over Volta Lake</span>Afram Plains is an adventurous destination. It is off the beaten track and you need to have the time to explore this remote area situated around the southern part of the Volta Lake.   <br><br>
+
+You can try to spot the West African manatee, supposedly living here in the Volta Lake. Renting a canoe or motorboat is a good way of spotting birds on the lake. Accommodation is available in Mpraeso or Donkorkrom. Donkorkrom is also the southern gate to Digya National Park. The area is famous for its annual paragliding festival celebrated during the Eastern holidays (book your accommodation early).
+</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-0.458851,6.752408,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Akuapem Hills and Aburi Gardens</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/aburi.jpg"><span>Aburi Botanical Gardens</span>Only 30 km north-east of Accra you find yourself in the green rolling hills with a potentially magnificent view over the forest to the city. This area is the first part of the Ghanaian hinterlands where Europeans settled in the 18th century.<br><br> The Aburi Botanical Gardens used to be a colonial hill station and sanatorium and you still find the colonial taste in the landscaped garden with a variety of indigenous and exotic trees. Combined with the colonial architecture in the surroundings towns, the monumental orthodox churches, combined with the Latey shrines and flamboyant markets, this area is worth a visit during a daytrip or as a starting point of your tour to the rest of the country.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-0.174998,5.853155,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Akwadum, fair trade cocoa  </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/akwadum.jpg"><span>Cocoa harvest</span>Akwadum / Brong Densuso is in the heart of the oldest cocoa farming area of Ghana. Between the Densu river and the tropical rainforest are more than 300 cocoa farms. All cocoa here is grown organically, without pesticides. The farmers are united in the Cocoa Organic Farmers Association (COFA).  <br><br>
+
+Take a guided tour and meet the traditional farmers living in the forest. Learn all about organic cocoa farming methods and the impact of 'fair trade' certification on these communities. We offer Akwadum as a destination on the journey from the Volta Region to the Ashanti region.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-0.346498,6.046333,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Buoyem, batcaves and views</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/buoyem.jpg"><span>Bibiri falls</span>Surrounded on three sides by dramatic cliffs and hills, Buoyem offers beautiful views, cave exploration and extensive hiking opportunities. Tour the Sandstone Canyon that surrounds the village with a guide. Trail highlights include a stunning view from above a rock shaped remarkably like Africa, as well as Bibiri Falls and three major caves. Go underground to explore three of Buoyem's caves and see their resident bat colonies. <br><br>
+
+A good physical condition is required as each hike involves some rock scrambling or squeezing through small passages. Buoyem has a nice visitor centre and guesthouse where you can arrange your tours and stay the night if you wish. Time your visit for the annual two-week-long Yam festival during September - December.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-1.959858,7.674970,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Daboya, Fugu cloth weaving</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/daboya.jpg"><span>Weaving of Fugu</span>Daboya is the most famous of Ghana's Fugu weaving communities. Like Kente, Fugu fabric is hand woven, but the strips are narrower and have indigo and white stripes, rather than Kente's geometric patterns. Fugu is virtually the only economic activity in Daboya and nearly all of its residents are involved with its production. Residents are very welcoming and eager to share their heritage. <br><br>Tour the village with a guide to see all aspects of Fugu production – making dyes with local materials, dyeing cloth, creating designs, weaving strips, and sewing clothing. In the process, you'll see much of the village and feel its rhythms of daily life. </div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-1.380898,9.531750,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kpetoe, Kente cloth weaving</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/kpetoe.jpg"><span>Kente weaving</span>Kpetoe is an Ewe village, about 30 km of Ho in the Volta Region, near the Togo border. Kpetoe is known for its Kente weavers. Kente weaving is a particular style of weaving and Kpetoe is renowned throughout Ghana for the quality of its weaving. There also is a yearly Kente festival.
+<br><br>
+The town is built around Kente, the clicks and clatter of the weavers are the beat of this town. You can visit the local weaving centre and buy beautiful Kente cloth.  
+</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>0.696130,6.549548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mognori eco village experience</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/mognori.jpg"><span>Mognori eco village</span>Mognori is a village where people live in total in harmony with their natural surroundings. You can do a guided tour through the village, on which you will encounter several important people, like the council of elders and the traditional healer. There are dancing and drumming sessions under a large tree in front of the house of the chief. You can do a canoe safari on the Mole river, to Mole National Park, or sleep in an adventurous bush camp (camping equipment is available). A home-stay is a good but basic alternative for Mole Motel.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-1.775612,9.290605,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nkoranza, Hand in Hand Project</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/handinhand.jpg"><span>Guesthouses on the premises</span>Just out of Nkoranza, Dutch doctor Ineke Bosman realised her dream of creating a safe and loving place to live for mentally handicapped children, the <a href="http://www.operationhandinhand.nl/engels.htm" target="_blank">Hand in Hand Community</a>. These children are still often undervalued and abandoned, mostly as a result of the widely spread fear for "evil spirits". According to a difficult to eradicate superstition in Ghana, these spirits are the cause of the handicap of these children. Therefore their histories often are unbelievable sad, full of stories about rejection, neglect, abandonment and even maltreatment or worse.
+<br><br>
+You can stay at the premises of the community to help, play with the children at the pool, or just to relax and enjoy the special atmosphere. On the premises of the community, attractive overnight accommodation has been set up.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-1.711979,7.567395,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ntonso, Adinkra cloth printing</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/ntonso.jpg"><span>Printing of Adinkra symbols</span>Another nice road stop is the Ashanti village Ntonso, 20 km northwest of Kumasi. Ntonso is the traditional production centre of Adinkra cloth. 
+<br><br>
+Adinkra are visual symbols, originally created by the Akan of Ghana and the Gyaman of Cote d'Ivoire in West Africa, that represent concepts or aphorisms. Adinkra symbols are printed on cloth, which is principally used for funeral purposes, although nowadays it is not uncommon to see people wearing it on a normal day. The dye used to print the symbols is made by mashing the bark of Bedia trees. The stamps are made from calabash wood in which the symbols are carved.
+<br><br>
+Ntonso has its own visitor's centre called the Ntonso Craft Village. Here they have a museum and you can stamp your own symbols. The museum guide can show you around the village.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-1.521392,6.828751,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sonyo, a maze of ladders </name>
+    <description><![CDATA[<div><img src="http://www.joli-ecotours.com/googlemaps/images/sonyo.jpg"><span>Sonyo village</span>Sonyo is a village with a unique architecture. Houses can only be reached over the roofs and don't have front doors. Women go from house to house over ladders even with large water bowls.<br><br>Do the ladder tour, and meet the chiefs. They like to tell about the history of the village and Sonyo's history. There is a yearly Dengfestival in May or April. Sonyo is on the route to Wechiau and Wa.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-2.343972,9.085273,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cedi Beads Factory </name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/cedibeads.jpg"><span>Colorful bracelets from glass beads</span>Meet Mister Cedi, member of the Nene Nomoda family, who runs a local glass beads factory. Watch the century old process of beads making from start to finish.<br><br>Even though Cedi Bead Factory exports their products far across the borders of the continent they stick to their traditional process of bead making using recycled glass bottles, termite clay and water.<br><br>There is also a small shop, where you can buy beautiful traditional jewelry made from the beads.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>0.049438,6.088667,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Larabanga ancient mosque and mystic stone</name>
+    <description><![CDATA[<div><img src="http://www.joli-ecotours.com/googlemaps/images/larabanga.jpg"><span>Larabanga mosque</span>Larabanga is well-known for its 13th century mosque constructed of mud-plaster and wood in a Sudanese architectural style. The building has to be renovated each year, because of the damage of the rains to the mud structure. You can also visit the 'Mystic Stone'. Larabanga is an interesting excursion to combine with a visit to Mole National Park.</div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>
+]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-1.858234,9.220007,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Karimenga village experience</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/karimenga.jpg"><span>The Green House guesthouse</span>Another favourite destination of Jolinaiko Eco Tours is Karimenga, a small village about 25 km south of Bolgatanga in North Ghana. The village welcomes tourists since 2010. Visitors can take part in everyday village life, or just enjoy and relax in this beautiful place. Income from tourism is used to let village children go to school.<br><br>
+
+There are lots of things to do. For example fishing in the White Volta river, or a 'herbal tour' on which you learn about plants and traditional healing. Listen to stories of the storytellers or take part in village life (fetching water, working on the land, cooking, making shea butter). You can stay in homestays or in the <a href="http://www.greenhouseghana.com/" target="_blank">Green House guesthouse</a>, a combination of western comfort and Ghanaian tradition. Unforgettable is spending the night on a flat rooftop watching millions of stars. </div><p>&copy; <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-0.832252,10.559467,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lake Bosumtwe</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/bosumtwe.jpg"><span>Lake Point Guesthouse</span>Lake Bosumtwe is the largest natural sweet water body of Ghana and once created by a meteorite. The lake surrounded by lushy vegetated steep crater walls offers a superb relaxing scene. There are many opportunities for bird watching and hiking. Various taboos and traditional beliefs exist about the lake. 
+<br><br>
+Normal fishing pirogue are not allowed and local fishermen use their hands or calabash to peddle, offering a wonderful scenery during sunset hours. Jolinaiko prefers spending your nights around Lake Bosumtwe and visiting Kumasi as day trip as an alternative for spending the night in the crowded urban setting.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-1.431484,6.531940,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Accra, the capital of Ghana</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/accra.jpg"><span>Makola market, Accra</span>For a city tour in downtown Accra, you'll need to be prepared for the extremes. A tour will take you through the narrow streets of the overcrowded but charming colonial neighborhoods Ussher Town and James Town, set against the cosmopolitan areas with fancy restaurants and modern skyscrapers. There's the hassle and bustle of traffic jams, people and music from rhythmic beats, items being sold everywhere, a dazzling diversity of scents and colors. It's amazing, overwhelming, cozy and some areas are extremely hectic. <br><br>There are touristic highlights, such as the Mausoleum, National Museum and Independence Square, some really interesting galleries, art centers and beaches. But the most memorable experience is to wander around down-town and to be part of this daily life in one of the safest capitals of Africa.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-0.212774,5.544828,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kumasi</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/kumasi.jpg"><span>Kumasi Kejetia market</span>Kumasi is the second capital of Ghana and the city holds an important place in the history of the Ashanti people. The for tourist interesting spots are located in the city centre, referred to as Adum. And right there is the huge trotro station and one of West-Africa's biggest open-air markets, Kejetia. 
+<br><br>
+The National Cultural Centre offers an excellent craft market. In the interesting Prempeh II Jubilee Museum you'll gain some insight in the rich Ashanti Culture. A visit to the Menhya Palace Museum is also recommendable especially on Adae Festival Days which occur every sixth Sunday. During these days, the Ashantehe receives homage from his subjects and subservient chiefs, a spectacular show with traditional dressing, large horn blowing and drumming.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-1.620312,6.697513,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tamale</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/tamale.jpg"><span>Tamale market</span>In recent years Tamale has been one of the fastest growing cities of West-Africa and the city centre is a real spectacle. It's totally different from the southern cities, it's modern and very traditional at the same time.<br><br> The market is one of the main attractions as well as the area where the leather industry is located and where fetish items are being sold. There are areas where people are weaving the traditional Dagomba cloth and nearby villages where you can see the traditionally handcrafted shea butter being made by women corporations.  </div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-0.843029,9.404863,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Beyin, sea turtles</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/beyin.jpg"><span>Sea turtle hatchlings crawling to the ocean</span>Alongside several other resorts along the west Coast of Ghana, Beyin Beach Resort is dedicated to the conservation of (endangered) sea turtles that live, nest and hatch along the shoreline. Visiting Beyin between October and the end of December enables you to see both the hatchlings and their mothers. Watching the baby sea turtles struggle out of the nest and make their way to the ocean early in the morning is an amazing experience. Combined with the palm-fringed beach and the nearby Nzulezu stilt-village, Beyin offers enough reasons for spending a couple of days of your holiday.</div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-2.595026,4.988046,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Avu Lagoon, wetlands and community conservation</name>
+    <description><![CDATA[<div dir="ltr"><img src="http://www.joli-ecotours.com/googlemaps/images/avulagoon.jpg"><span>Avu Lagoon</span>Avu Lagoon is a community-based conservation and ecotourism project in the lower part of the Volta region. The wetland surrounding the lagoon is home to the world's only aquatic antelope, the Sitatunga, reptiles, mammals an a wide variety of exotic birds. It's the combination of nature, culture and adventure which makes this place so appealing. <br><br>You'll visit Bludo, a picturesque village surrounded by sugarcane plantations and leaders in bamboo gin distillery. A talented boatman will take you in his canoe and use a bamboo pole to navigate the streams and cut channels to the lagoon. </div><p>© <a href="http://www.joli-ecotours.com" target="_blank">Jolinaiko Eco Tours</a>. All rights reserved.</p>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>0.700378,6.000753,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
