@@ -1,0 +1,165 @@
+{
+
+"stops": {
+
+"stop 1": {
+
+        "_id": "1",
+
+        "name": "Kpeshie",
+
+        "driver": "Johnny Depp",
+
+        "last_departure": "1350224100000",
+
+        "seats": "6",
+
+        "lat": "5.593222",
+
+        "long": "-0.140138"
+
+      }
+
+
+
+"stop 2": {
+
+        "_id": "2",
+
+        "name": "Cantonments",
+
+        "driver": "Zoe Nuhfer",
+
+        "last_departure": "1353399600000",
+
+        "seats": "7",
+
+        "lat": "5.577456",
+
+        "long": "-0.172911"
+
+      }
+
+
+
+"stop 3": {
+
+        "_id": "3",
+
+        "name": "Ablekuma",
+
+        "driver": "John Doe",
+
+        "last_departure": "1354380300000",
+
+        "seats": "3",
+
+        "lat": "5.551174",
+
+        "long": "-0.252616"
+
+      }
+
+
+
+"stop 4": {
+
+        "_id": "4",
+
+        "name": "Mataheko",
+
+        "driver": "Mark Nuhfer",
+
+        "last_departure": "1353838500000",
+
+        "seats": "5",
+
+        "lat": "5.5643",
+
+        "long": "-0.25027"
+
+      }
+
+
+
+"stop 5": {
+
+        "_id": "5",
+
+        "name": "Okai Koi",
+
+        "driver": "Napoleon B.",
+
+        "last_departure": "1352799300000",
+
+        "seats": "2",
+
+        "lat": "5.587938",
+
+        "long":” -0.238539"
+
+      }
+
+
+
+"stop 6": {
+
+        "_id": "6",
+
+        "name": "Lapaz",
+
+        "driver": "Clark Kent",
+
+        "last_departure": "1353480600000",
+
+        "seats": "7",
+
+        "lat": "5.611573",
+
+        "long": "-0.254963"
+
+      }
+
+
+
+"stop 7": {
+
+        "_id": "7",
+
+        "name": "Awoshie",
+
+        "driver": "Bruce Wayne",
+
+        "last_departure": "1351857600000",
+
+        "seats": "1",
+
+        "lat": "5.586608",
+
+        "long": "-0.277264"
+
+      }
+
+
+
+"stop 8": {
+
+        "_id": "8",
+
+        "name": "Mallam",
+
+        "driver": "Chris Miller",
+
+        "last_departure": "1352384700000",
+
+        "seats": "5",
+
+        "lat": "5.574783",
+
+        "long": "-0.29253"
+
+      }
+
+}
+
+}
