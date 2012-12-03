@@ -1,11 +1,9 @@
 DRIVER=org.postgresql.Driver
-LIQUIBASECLASSPATH=postgresql-8.1-404.jdbc3.jar
 URL="jdbc:postgresql://localhost:5432/trotro"
 USER=postgres
 PASSWD=Took2soo
 
 export DRIVER
-export LIQUIBASECLASSPATH
 export URL
 export USER
 export PASSWD

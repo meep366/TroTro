@@ -4,7 +4,7 @@ liquibase --driver=$DRIVER \
           --changeLogFile=changelog.xml \
           --url=$URL \
           --username=$USER \
-          --password=$PASSWD \
+	  --password=$PASSWD \
           --logLevel=info \
-            status 
+            rollbackCount $1 
 

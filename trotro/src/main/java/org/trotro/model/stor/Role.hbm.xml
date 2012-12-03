@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping
+  PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+   <class name="org.trotro.model.stor.Role" table="ROLE_TBL">
+      <id name="ROLE_ID" column="ROLE_ID">
+         <generator class="util.hibernate.RandomGUIDGenerator"/>
+      </id>
+      <property name="ROLE_NAME" column="ROLE_NAME"/>
+      <property name="ROLE_DESC" column="ROLE_DESC"/>
+   </class>
+</hibernate-mapping>

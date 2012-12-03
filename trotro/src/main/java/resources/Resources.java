@@ -36,12 +36,12 @@ public class Resources {
     	URL result = null;
         
     	try {
-    		logger.info("Loading: /resources/" + pathToResource);
+    		logger.info("Loading: /" + pathToResource);
     		result = r.getClass().getResource(pathToResource);
     		logger.debug("Loaded: " + result.toExternalForm());
     	}
     	catch ( Exception e ) {
-    		logger.error("/resources/" + pathToResource + " not found.");
+    		logger.error("/" + pathToResource + " not found.");
     		
     		try {
     			logger.debug("Loading: /" + pathToResource);
