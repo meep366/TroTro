@@ -69,8 +69,12 @@
       <div class="masthead">
         <ul class="nav nav-pills pull-right">
           <li class="active"><a href="index.jsp">Home</a></li>
+          <li><a href="stninfo.jsp">Stations</a></li>
           <li><a href="about.jsp">About</a></li>
           <li><a href="contact.jsp">Contact</a></li>
+          <li><a href="driverroute.jsp">Add Route</a></li>
+          <li><a href="signin.jsp">Sign In</a></li>
+
         </ul>
         <h3 class="muted">TroTro</h3>
       </div>
@@ -80,8 +84,8 @@
       <div class="jumbotron">
         <h1>No More Tro-Tro Trouble</h1>
         <img alt="Tro-Tro Logo" src="/images/trotro-bus-smllr.png"/>
-        <p class="lead">Our Android app is quick and easy to use for drivers and passengers.<br/> Get it <a href "https://play.google.com/store/apps/details?id=org.trotro&feature=search_result#?t=W251bGwsMSwyLDEsIm9yZy50cm90cm8iXQ..">here</a> for free.</p>
-        <a class="btn btn-large btn-success" href="#">Sign up today</a>
+        <p class="lead">Our Android app is quick and easy to use for drivers and passengers.<br/> Get it <a href="https://play.google.com/store/apps/details?id=org.trotro&feature=search_result#?t=W251bGwsMSwyLDEsIm9yZy50cm90cm8iXQ..">here</a> for free.</p>
+        <a class="btn btn-large btn-success" href="signup.jsp">Sign up today</a>
       </div>
 
       <hr>

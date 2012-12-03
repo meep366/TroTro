@@ -12,40 +12,36 @@
     <link href="/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
-        padding-top: 20px;
+        padding-top: 40px;
         padding-bottom: 40px;
+        background-color: #f5f5f5;
       }
 
-      /* Custom container */
-      .container-narrow {
-        margin: 0 auto;
-        max-width: 700px;
+      .form-signin {
+        max-width: 300px;
+        padding: 19px 29px 29px;
+        margin: 0 auto 20px;
+        background-color: #fff;
+        border: 1px solid #e5e5e5;
+        -webkit-border-radius: 5px;
+           -moz-border-radius: 5px;
+                border-radius: 5px;
+        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+           -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+                box-shadow: 0 1px 2px rgba(0,0,0,.05);
       }
-      .container-narrow > hr {
-        margin: 30px 0;
+      .form-signin .form-signin-heading,
+      .form-signin .checkbox {
+        margin-bottom: 10px;
+      }
+      .form-signin input[type="text"],
+      .form-signin input[type="password"] {
+        font-size: 16px;
+        height: auto;
+        margin-bottom: 15px;
+        padding: 7px 9px;
       }
 
-      /* Main marketing message and sign up button */
-      .jumbotron {
-        margin: 60px 0;
-        text-align: center;
-      }
-      .jumbotron h1 {
-        font-size: 72px;
-        line-height: 1;
-      }
-      .jumbotron .btn {
-        font-size: 21px;
-        padding: 14px 24px;
-      }
-
-      /* Supporting marketing content */
-      .marketing {
-        margin: 60px 0;
-      }
-      .marketing p + h4 {
-        margin-top: 28px;
-      }
     </style>
     <link href="/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -64,32 +60,18 @@
 
   <body>
 
-    <div class="container-narrow">
+    <div class="container">
 
-      <div class="masthead">
-        <ul class="nav nav-pills pull-right">
-          <li><a href="index.jsp">Home</a></li>
-          <li><a href="stninfo.jsp">Stations</a></li>
-          <li><a href="about.jsp">About</a></li>
-          <li class="active"><a href="contact.jsp">Contact</a></li>
-          <li><a href="driverroute.jsp">Add Route</a></li>
-          <li><a href="signin.jsp">Sign In</a></li>
-        </ul>
-        <h3 class="muted">TroTro</h3>
-      </div>
-
-      <hr>
-
-      <div class="jumbotron">
-
-        <p class="lead"><a href="https://github.com/meep366/TroTro">GitHub Project</a></p>
-      </div>
-
-      <hr>
-
-      <div class="footer">
-        <p>&copy; TroTro 2012</p>
-      </div>
+      <form class="form-signin">
+        <h2 class="form-signin-heading">Please sign in</h2>
+        <input type="text" class="input-block-level" placeholder="Email address">
+        <input type="password" class="input-block-level" placeholder="Password">
+        <label class="checkbox">
+        <br/>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+        <a href="index.jsp"><button class="btn btn-large btn-primary">Sign in</button></a>
+      </form>
 
     </div> <!-- /container -->
 
